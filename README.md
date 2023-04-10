@@ -13,3 +13,4 @@ Currently this is a very dumb but helpful data visualizer for Tellor.
 
 ## To Do
 - Get the subgraph data via an API
+- Deploy a hosted version
