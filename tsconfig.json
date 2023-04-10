@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "target": "es2017",
+      "esModuleInterop": true,
+    },
+    "exclude": [
+      "./tests/",
+      "./node_modules/",
+      "./dist/",
+      ".parcel-cache"
+    ],
+  }
